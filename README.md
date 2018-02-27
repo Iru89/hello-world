@@ -1,2 +1,3 @@
 # hello-world
-primera modificacio a branch master
+Cosas a fer:
+MySQL  J2EE GitHub HTML 
