@@ -1,3 +1,3 @@
 # hello-world
-segona modificacio readme-edits
+3r modificacio 
 MySQL  J2EE GitHub HTML 
