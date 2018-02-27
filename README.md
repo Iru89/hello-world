@@ -1,3 +1,3 @@
 # hello-world
-3r modificacio 
+Cosas a fer:
 MySQL  J2EE GitHub HTML 
